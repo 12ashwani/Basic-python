@@ -1,0 +1,27 @@
+Machine learning finds patterns in data to make a suitable decision. 
+Deep learning is a branch of machine learning that uses neural networks with many layers. 
+Today, problems such as computer vision, natural language processing, and driverless cars can be solved with deep learning.
+To be able to do deep learning projects, I recommend you to learn machine learning first. 
+Universities do not have a separate machine learning department. But fortunately, there are many free resources and training videos on the Internet.
+
+Whether you are a student, an employee who wants to change careers, or someone who wants to use machine learning in your business, you can easily learn machine learning from open sources.
+
+In this post, I’m going to cover the following topics:
+
+What is machine learning?
+Programming languages ​​for machine learning
+Libraries for Python and R
+Tools you should know for machine learning
+Disciplines you need to learn
+Algorithms for machine learning
+Resources and YouTube channels for machine learning
+Before getting started, please don’t forget to subscribe to my youtube channel where I create content about ai, data science, machine learning, and deep learning.
+
+What is Machine Learning?
+As you know, the amount of data produced has increased with the development of the internet and social media. 
+If AI is today’s electricity, data is today’s oil. Companies such as Google, Facebook, and Amazon became huge companies because they evaluated the data they obtained. To use oil, you have to process it right? 
+To extract meaningful information from data, you need to process it.
+
+Machine learning is a subfield of AI that aims at automatically building models using data.
+
+You may ask how machine learning came about. Let me explain this briefly. Previously, rules were entered into the machine, and output was produced for inputs according to these rules.

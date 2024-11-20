@@ -1,0 +1,3 @@
+Hello my name is ashwani kumar 
+ Hello my name is ashwani kumar append this into the file  
+ 
