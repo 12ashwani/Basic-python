@@ -1,0 +1,8 @@
+24-11-21 23:05:47 - root - DEBUG - Adding 10+12= 22
+24-11-21 23:05:47 - root - DEBUG - Subtracting 20-5= 15
+24-11-21 23:05:47 - root - DEBUG - multiplying 20*2= 40
+24-11-21 23:09:19 - ArithmeticApp - DEBUG - Adding 10 + 12 = 22
+24-11-21 23:09:19 - ArithmeticApp - DEBUG - Subtracting 20 - 5 = 15
+24-11-21 23:09:19 - ArithmeticApp - DEBUG - Multiplying 20 * 2 = 40
+24-11-21 23:09:19 - ArithmeticApp - ERROR - Division by zero error: division by zero
+24-11-21 23:09:19 - ArithmeticApp - DEBUG - Dividing 20 / 4 = 5.0

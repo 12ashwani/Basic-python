@@ -1,0 +1,24 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Alice",
+            "age": 25,
+            "department": "HR"
+        },
+        {
+            "id": 2,
+            "name": "Bob",
+            "age": 30,
+            "department": "Finance"
+        },
+        {
+            "id": 3,
+            "name": "Charlie",
+            "age": 28,
+            "department": "IT"
+        }
+    ],
+    "company": "TechCorp",
+    "location": "New York"
+}

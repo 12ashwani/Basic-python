@@ -1,4 +1,4 @@
-These are the basic command which is used for the push the all code nto the git repository 
+These are the basic command which is used for the push the all code into the git repository 
 
 - git init
 - git add README.md
